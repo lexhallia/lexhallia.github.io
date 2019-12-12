@@ -1,0 +1,9 @@
+title: Lexhallia
+baseurl: ""
+sass:
+  sass_dir: _sass
+  style: compressed
+
+collections:
+  chapters:
+    output: true
