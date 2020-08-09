@@ -2,5 +2,5 @@
 layout: page
 title: The Thousand Slights
 summary: (Amanda's upcoming session)
-chapter: 3
+chapter: 5
 ---
